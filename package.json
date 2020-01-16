@@ -1,0 +1,16 @@
+{
+  "name": "urmart_f2e_findduplicate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watchAll",
+    "start": "node index.js"
+  },
+  "author": "Brian Wu",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
